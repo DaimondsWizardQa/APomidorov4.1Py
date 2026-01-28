@@ -141,4 +141,6 @@ sorted_numbers = bubble_sort(numbers)
 
 print("Отсортированный список:", ", ".join(map(str, sorted_numbers)))
 
+yeah
+
 
